@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb673114-7969-4b59-ae73-ad5b4826eb75" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameShop/task1/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameShop/task1/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameShop/GameShop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameShop/GameShop/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SHLIC\UrbanProjects\GameShop\GameShop\templates" />
       <recent name="C:\Users\SHLIC\UrbanProjects\GameShop\GameShop\task1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SHLIC\UrbanProjects\GameShop\GameShop" />
+      <recent name="C:\Users\SHLIC\UrbanProjects\GameShop" />
+      <recent name="C:\Users\SHLIC\UrbanProjects\GameShop\GameShop\GameShop" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -107,13 +113,22 @@
       <option name="project" value="LOCAL" />
       <updated>1733918313552</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Module_19. Admin">
+      <option name="closed" value="true" />
+      <created>1733919668341</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733919668341</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Module_19" />
     <MESSAGE value="Module_19. MVT" />
     <MESSAGE value="Module_19. Paginator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module_19. Paginator" />
+    <MESSAGE value="Module_19. Admin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module_19. Admin" />
   </component>
 </project>
