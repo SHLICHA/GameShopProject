@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb673114-7969-4b59-ae73-ad5b4826eb75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GameShop/templates/news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameShop/GameShop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameShop/GameShop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameShop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/GameShop/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameShop/task1/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameShop/task1/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameShop/task1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameShop/task1/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameShop/templates/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/GameShop/templates/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameShop/task1/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameShop/task1/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,12 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733912601139</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Module_19. Paginator">
+      <option name="closed" value="true" />
+      <created>1733918313552</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733918313552</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Module_19" />
     <MESSAGE value="Module_19. MVT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module_19. MVT" />
+    <MESSAGE value="Module_19. Paginator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module_19. Paginator" />
   </component>
 </project>
