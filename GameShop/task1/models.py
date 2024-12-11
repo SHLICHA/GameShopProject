@@ -59,3 +59,24 @@ class Game(models.Model):
 
     def __str__(self):
         return self.title
+
+
+class News(models.Model):
+    title = models.CharField(
+        verbose_name='Заголовок',
+        max_length=255
+    )
+    content = models.TextField(
+        verbose_name='Текст'
+    )
+    date = models.DateField(
+        verbose_name='Дата',
+        auto_now_add=True
+    )
+
+    class Meta:
+        verbose_name = "Новость"
+        verbose_name_plural = "Новости"
+
+    def __str__(self):
+        return self.title

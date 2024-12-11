@@ -8,5 +8,6 @@ urlpatterns = [
     path('', sign_up_by_django),
     path('platform/', Platform.as_view()),
     path('platform/games/', games),
-    path('platform/cart/', cart)
+    path('platform/cart/', cart),
+    path('platform/news/', news)
 ]
